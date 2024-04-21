@@ -112,4 +112,4 @@ class handler(BaseHTTPRequestHandler):
 	            else:
         	        print("  ", end=" ")
 	    print()
-        	return
+        return
